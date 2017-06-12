@@ -1,0 +1,26 @@
+{
+  "name": "oavtests",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "bradygaster",
+    "email": "brady.gaster@gmail.com",
+    "url": "bradygaster.com"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    ""
+  ],
+  "repository": "bradygaster/oavtests",
+  "license": "MIT",
+  "dependencies": {
+    "find-in-files": "^0.4.0",
+    "node-cmd": "^3.0.0",
+    "oav": "^0.4.4",
+    "shelljs": "^0.7.8"
+  }
+}
